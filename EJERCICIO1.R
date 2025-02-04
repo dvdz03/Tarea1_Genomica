@@ -1,1 +1,1 @@
-#EJERCICIO 1
+#EJERCICIO 1 cosa del GEO2R
