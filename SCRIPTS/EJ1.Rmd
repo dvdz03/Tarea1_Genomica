@@ -16,12 +16,12 @@ figura1<- c("C:/Users/100032608/OneDrive/Documentos/Tarea1_Genomica/Tarea1_Genom
 knitr::include_graphics(figura1)
 ```
 
-## Including Plots
+Como puede verse en la ***figura 1*** ambas gráficas son prácticamente iguales, solo que en la imagen de la izquierda faltan colores, esto es debido al script de R que usé porque le ponía otro color pero no se veía en la gráfica y mejor lo dejé así. 
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+![Figura 2. Comparación con el volcano plot del artículo original](https://pubmed.ncbi.nlm.nih.gov/38376210/#&gid=article-figures&pid=fig-5-uid-4) 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+El volcano plot realizado en GEO2R y en Rstudio difieren notablemente con el que se hizo en el artículo original, en este se puede observar como la gráfica está "volteada" y de igual manera se puede ver que hay más genes considerados como no significativos en relación a los de la página de GEO2R
+
+[Artículo original, Figura 5](https://pubmed.ncbi.nlm.nih.gov/38376210/)
+
