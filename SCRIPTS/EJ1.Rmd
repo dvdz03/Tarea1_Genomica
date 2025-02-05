@@ -1,0 +1,27 @@
+---
+title: "Ejercicio 1"
+author: "David Flores"
+date: "2025-02-05"
+output: html_document
+---
+
+
+## Volcano plots
+
+Para el análisis en GEO2R utilicé los datos de un estudio hecho en *Mus musculus* en respuesta a infecciones por *Toxoplasma*, los resultados de las gráficas fueron muy similares entre sí, esto fue haciendo la gráfica tomando como eje x el log2(FoldChange) y para el eje y (-log10(Pvalor)).los resultados se pueden observar a continuación en la ***figura 1***.
+
+```{r, echo=FALSE, out.width="65%", fig.align="center"}
+figura1<- c("C:/Users/100032608/OneDrive/Documentos/Tarea1_Genomica/Tarea1_Genomica/IMAGENES/VOLCANO1.png")
+"Figura 1. Comparación de gráficas obtenida directamente en la página de GEO2R (izquierda) y en Rstudio (izquierda)." 
+knitr::include_graphics(figura1)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
