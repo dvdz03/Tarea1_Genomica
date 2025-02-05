@@ -1,0 +1,29 @@
+---
+title: "EJ2"
+author: "David Flores"
+date: "2025-02-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## ANÁLISIS CON PANTHERGO
+
+Se trata de un análisis de transcripción de *E. coli* procesada en condiciones de glucosa persistente y decreciente, el experimento es un perfil de expresión por arreglo. Primero lo busqué en GEO2R para asegurarme que los datos si eran válidos para el análisis, después se pasaron los ids de los genes a [pantherdb](https://www.pantherdb.org) y una vez obtenida las gráficas de barras, por último copié los genes a [GeneMania](https://genemania.org/search/escherichia-coli/b0598/b2096/b3708/b3708/b2095/b2096/b0598/b0953/b2096/b2091/b0032/b2091/b2096/b3751/b1205/b1376/b0953/b1205/b1415/b0032/b4015/b1415/b2095/b0953/b3751/b0336/b3984/b2150/b0880/b2094/b2341/b0003/b2341/b0004/b4068/b0880/b2150/b0953/b0811/b0754/b0004/b2697/b3318/b0811/b0754/b3316/b4068/b4039/b2537/b0114/b1376/b2092/b2926/b0565/b3983/b2926/b2697/b3318/b0565/b2742/b3418/b2587/b4014/b2936/b2607/b3734/b0171/b0720/b2742/b1262/b1261/b2977/b3983/b0336/b2977/b1262/b3418/b4069/b2587/b1261/b2609/b4014/b3307/b3984/b0171/b2609/b3307/b3321/b2891/b3231/b3255/b2936/b0346/b2028/b4201/b0720/b3302/b3736/b2607/b3304/b3736/b3297/b1262/b2688/b0462/b4039/b3316/b4069/b1518/) para visualizar el diagrama de redes.
+
+Los resultados fueron los siguientes:
+
+![Figura 1](C:/Users/100032608/OneDrive/Documentos/Tarea1_Genomica/Tarea1_Genomica/IMAGENES/biologico.png)
+
+![Figura 2](C:/Users/100032608/OneDrive/Documentos/Tarea1_Genomica/Tarea1_Genomica/IMAGENES/celular.png)
+
+
+![Figura 3](C:/Users/100032608/OneDrive/Documentos/Tarea1_Genomica/Tarea1_Genomica/IMAGENES/molecular.png)
+
+
+
+
+
+

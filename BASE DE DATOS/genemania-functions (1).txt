@@ -1,0 +1,55 @@
+Function	FDR	Genes in network	Genes in genome
+ribosomal subunit	3.1396519676979887e-22	23	57
+cytosolic ribosome	3.1396519676979887e-22	23	57
+ribosome	3.1396519676979887e-22	23	57
+ribonucleoprotein complex	9.924427197091946e-22	23	60
+intracellular non-membrane-bounded organelle	4.5135302094223155e-20	24	79
+intracellular organelle	5.295888807139521e-20	24	80
+structural molecule activity	1.2055564105204196e-19	20	48
+cytosol	2.7843711396050083e-19	24	86
+non-membrane-bounded organelle	1.1082634623488596e-18	24	91
+organelle	1.3299925949440933e-18	24	92
+large ribosomal subunit	1.1402703114610671e-13	14	32
+ribosome assembly	1.0938418237283873e-12	15	45
+ribonucleoprotein complex subunit organization	1.3688591195230467e-12	15	46
+ribonucleoprotein complex assembly	1.3688591195230467e-12	15	46
+organelle assembly	6.940520733550412e-12	16	61
+cellular protein-containing complex assembly	1.6794219770802707e-10	15	62
+organelle organization	2.074505221796806e-10	17	88
+ribosome biogenesis	4.577722386081571e-9	16	91
+ribonucleoprotein complex biogenesis	6.138734546675213e-9	16	93
+peptide biosynthetic process	8.182221746852644e-9	16	95
+protein-containing complex subunit organization	7.016821747611189e-8	18	144
+peptide metabolic process	8.481842275853171e-8	16	111
+protein-containing complex assembly	1.0674133267658295e-7	16	113
+small ribosomal subunit	1.2035003882283096e-7	9	25
+RNA binding	1.2447426887181263e-7	13	69
+rRNA binding	1.3984828007103004e-7	8	18
+amide biosynthetic process	2.917508414803867e-7	16	122
+translation	0.0000031788833892176667	12	74
+ribosomal large subunit biogenesis	0.000003911066006205235	8	26
+cellular component assembly	0.00000804498960392294	17	175
+cellular amide metabolic process	0.000020813038181460393	16	165
+cellular component organization	0.00003660486393854347	21	294
+ribosomal small subunit biogenesis	0.000040634534995055355	7	24
+cellular protein metabolic process	0.00004774863926714237	18	223
+protein metabolic process	0.00018676823804466368	19	271
+cellular component biogenesis	0.0007364850739663515	17	243
+negative regulation of cellular amide metabolic process	0.01146906609834063	5	24
+posttranscriptional regulation of gene expression	0.015299021435654729	6	40
+negative regulation of cellular protein metabolic process	0.019677202662753693	5	27
+translation regulator activity	0.01969744830235469	4	15
+negative regulation of protein metabolic process	0.026648159065835404	5	29
+regulation of translation	0.05617569973438523	5	34
+negative regulation of macromolecule metabolic process	0.060519382957862584	10	143
+negative regulation of macromolecule biosynthetic process	0.06207060694011739	9	119
+negative regulation of cellular macromolecule biosynthetic process	0.06207060694011739	9	119
+negative regulation of cellular biosynthetic process	0.0631709856248943	9	120
+negative regulation of biosynthetic process	0.0631709856248943	9	120
+negative regulation of metabolic process	0.0638508405860468	10	146
+regulation of cellular amide metabolic process	0.07182913991134765	5	37
+translation factor activity, RNA binding	0.07398825068270883	3	10
+negative regulation of gene expression	0.08765805770145696	9	127
+indole-containing compound metabolic process	0.09278824527828654	3	11
+tryptophan metabolic process	0.09278824527828654	3	11
+indolalkylamine metabolic process	0.09278824527828654	3	11
